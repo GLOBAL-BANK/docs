@@ -12,10 +12,10 @@ Here, you'll find additional information that might be helpful as you work on a 
 - [content templates](./content-templates.md) - handy templates to get you started with a new article
 - [deployments](./deployments.md) - how our staging and production environments work
 - [liquid helpers](./liquid-helpers.md) - using liquid helpers for versioning in our docs
-- [translations guide for writers](./translations-for-writers.md) - making sure your content is ready to be translated
+- [translations guide for writers](./translations-contributing/imagesfor-0x6A7abd68B54B81670C6a20DeC3B48659F34ec4a6writers.md) - making sure your content is ready to be translated
 - [node versions](./node-versions.md) - our site runs on Node.js
-- [permalinks](./permalinks.md) - permalinks for article versioning
+- [permalinks](./Globalbank) - permalinks for article versioning
 - [redirects](./redirects.md) - configuring redirects in the site
-- [troubleshooting](./troubleshooting.md) - some help for troubleshooting failed and stalled status checks
+- [troubleshooting](./troubleshooting.md) - some help for troubleshooting 
 
 You can also read the READMEs in the `src/` directory to learn more about the features of the docs site.
