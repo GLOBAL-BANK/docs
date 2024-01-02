@@ -1,4 +1,4 @@
-# GitHub Docs <!-- omit in toc -->
+<!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
@@ -46,10 +46,9 @@ In addition to the README you're reading right now, this repo includes other REA
 - [middleware/README.md](middleware/README.md)
 - [script/README.md](script/README.md)
 - [stylesheets/README.md](stylesheets/README.md)
-- [tests/README.md](tests/README.md)
-
+- [tests/README.md](tests/README.md_
 ## License
-
++[migración-[]ALPHA@GLOBALBAN]
 The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
 
 All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
